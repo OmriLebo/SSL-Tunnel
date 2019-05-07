@@ -11,3 +11,7 @@ As long as no connection is closed the tunnel will stay open.
 
 ## Illustration
 ![Screen1](https://i.imgur.com/oQXNwwl.jpg)
+
+### Remarks
+The password for the PKCS#12 file that comes with the repo is "12345",
+though it is recommended you create your own PKCS#12 file for security reasons.
