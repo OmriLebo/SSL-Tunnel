@@ -10,4 +10,4 @@ The server connects to its tunneling endpoint.
 As long as no connection is closed the tunnel will stay open.
 
 ## Illustration
-![Screen1](https://i.imgur.com/reNF8dM.jpg)
+![Screen1](https://i.imgur.com/oQXNwwl.jpg)
