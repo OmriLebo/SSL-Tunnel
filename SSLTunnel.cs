@@ -23,8 +23,6 @@ namespace SSLTunnel
 		protected IPAddress _proxyHost;
 		protected Int32 _proxyPort;		
 
-		protected Int32 _packetsTunneled;
-
 		private const int MAX_READ_LENGTH = 2048;
 		protected const int MICRO_SECOND = 1000000;
 		protected const int MICRO_MINUTE = 60 * MICRO_SECOND;
